@@ -1,3 +1,4 @@
+Prerequisite: Node.js
 ### To Run the backend do the following steps
 
 1) `git clone https://github.com/kushal600/EnergyDataBackend.git`
